@@ -1,2 +1,5 @@
 /app/android/key.properties
 .DS_Store
+
+# please plugin runtime state
+.please/state/
