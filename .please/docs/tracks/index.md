@@ -6,7 +6,7 @@
 
 | Track | Feature | Type | Issue | Started | Status |
 |-------|---------|------|-------|---------|--------|
-| [flutter-3x-migration-20260326](active/flutter-3x-migration-20260326/) | Flutter 3.x 마이그레이션 및 현대화 | refactor | — | 2026-03-26 | draft |
+| [flutter-3x-migration-20260326](active/flutter-3x-migration-20260326/) | Flutter 3.x Migration & Modernization | refactor | — | 2026-03-26 | planned |
 
 ## Recently Completed
 
